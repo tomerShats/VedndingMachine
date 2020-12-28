@@ -1,0 +1,6 @@
+﻿  VedndingMachine.c
+C:\Users\User\source\repos\interview1\interview1\VedndingMachine.c(34,26): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\User\source\repos\interview1\interview1\VedndingMachine.c(39,7): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\User\source\repos\interview1\interview1\VedndingMachine.c(73,3): warning C4033: 'popLastCoin' must return a value
+C:\Users\User\source\repos\interview1\interview1\VedndingMachine.c(81): warning C4715: 'popLastCoin': not all control paths return a value
+  interview1.vcxproj -> C:\Users\User\source\repos\interview1\Debug\interview1.exe
